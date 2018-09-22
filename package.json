@@ -1,6 +1,7 @@
 {
   "name": "deploy-to-travis",
   "version": "0.1.0",
+  "homepage": "https://viniciusgularte.github.io/ContinuousDeploymentTravis",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
