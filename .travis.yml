@@ -9,5 +9,5 @@ cache:
     - node_modules
 
 script:
-  - yarn test #caso você tenha testes para rodar
+  - npm test #caso você tenha testes para rodar
   - bash ./deploy.sh
